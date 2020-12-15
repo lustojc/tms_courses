@@ -1,0 +1,108 @@
+.m-fw {
+    flex-wrap: wrap;
+}
+.m-bg-black {
+    background-color: rgb(0, 0, 0);
+    
+}
+.m-bg-grey {
+    background-color: #0F0F0F;;
+}
+.m-text-white {
+    color: white;
+}
+.m-flex {
+    display: flex;
+}
+.m-text-grey {
+    font-family: 'PT Sans';
+    color: gray;
+    size: 12px;
+    font-weight: 400;
+}
+.m-pd-left {
+    padding-left: 14px;
+}
+.m-list-type {
+    list-style-type: none;
+}
+.m-name-style {
+    font-family: 'Post No Bills Jaffna Bold';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 54px;
+    color: #FFFFFF;
+}
+.m-media-style {
+    padding: 31px 20px 31px 20px;
+    font-family: 'PT Sans';
+    color: grey;
+    
+
+}
+.m-media-style:hover {
+    background-color: #1F1F1F;
+    cursor: default;
+    color: white;
+}
+.m-pd-icon {
+    padding: 29px 20px 29px 20px;
+}
+.m-text-white-small {
+    color: white;
+    font-style: normal;
+    font-family: 'PT Sans';
+    letter-spacing: 0em;
+    text-align: center;
+}
+.m-text-heading {
+    color: white;
+    font-family: 'Playfair Display', serif;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 48px;
+    letter-spacing: 0em;
+    
+}
+.m-bg-grey-small {
+    width: 260px;
+    height: 325px;
+    background-color: #191B1C;
+}
+.m-pd-top-25 {
+    padding-top: 25px;
+}
+.m-pd-top-10 {
+    padding-top: 10px;
+}
+.m-btn2 {
+    white-space: nowrap;
+}
+.m-pdtop {
+    padding-top: 50px;
+}
+.m-pdbtm {
+    padding-bottom: 40px;
+}
+.m-text-white-small-left {
+    color: white;
+    font-style: normal;
+    font-family: 'PT Sans';
+    letter-spacing: 0em;
+}
+.m-margin-10px {
+    margin: 0px 20px 20px 0px;
+
+}
+.m-sp-wrap {
+    white-space: normal;
+}
+.m-wd100 {
+    width: 100%;
+}
+.m-flex-direction {
+    flex-direction: column;
+}
+
